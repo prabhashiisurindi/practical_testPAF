@@ -13,6 +13,8 @@
 
  Date: 06/05/2020 17:47:49
 */
+Create database paf;
+use paf;
 
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
